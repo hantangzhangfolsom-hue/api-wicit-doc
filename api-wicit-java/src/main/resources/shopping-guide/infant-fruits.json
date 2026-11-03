@@ -1,0 +1,97 @@
+{
+  "slug": "infant-fruits",
+  "name": "Infant Fruits and Vegetables",
+  "sourceUrl": "https://myfamily.wic.ca.gov/WicShoppingGuide/InfantFruits",
+  "sourceLastUpdated": "2026-05-29",
+  "canBuy": {
+    "description": "Choose from brands listed below. 4 oz containers.",
+    "items": [
+      "Plain fruits, plain vegetables, or combinations of two or more plain fruits and vegetables",
+      "Multi-packs allowed",
+      "Organic allowed"
+    ]
+  },
+  "conditionalPurchases": null,
+  "cannotBuy": [
+    "Any other size or brand of infant fruits and vegetables",
+    "Infant fruits and vegetables in pouches",
+    "Infant desserts, puddings, or smoothies",
+    "Infant juice",
+    "Infant dinners",
+    "Graduates or toddler food",
+    "Dried or powdered infant fruits and vegetables",
+    "Infant fruits and vegetables mixed with cereal, meat, pasta, or rice",
+    "Infant fruits and vegetables with added sugars, salt, spices, starch, fiber, or DHA",
+    "Infant fruits and vegetables with artificial, reduced calorie, or no-calorie sweeteners",
+    "Infant fruits and vegetables that do not list a fruit or vegetable as the first ingredient"
+  ],
+  "helpfulHints": {
+    "description": "Single containers and multi-packs can be mixed and matched. A multipack has 2 or more containers.",
+    "items": [],
+    "note": "You can choose a fruits and vegetables benefit for your baby instead of some or all of their infant fruits and vegetables containers. Talk to WIC staff for more information!"
+  },
+  "images": [
+    {
+      "url": "https://docs.wic.ca.gov/images/WicShoppingGuide/InfantFruits/2pack_containers_example.png",
+      "alt": "Container size equivalent"
+    }
+  ],
+  "brands": [
+    {
+      "name": "Beech-Nut",
+      "logoUrl": "https://docs.wic.ca.gov/images/WicShoppingGuide/InfantFruits/Beech-Nut.jpeg"
+    },
+    {
+      "name": "Early On",
+      "logoUrl": "https://docs.wic.ca.gov/images/WicShoppingGuide/InfantFruits/EarlyOn.jpg"
+    },
+    {
+      "name": "Gerber",
+      "logoUrl": "https://docs.wic.ca.gov/images/WicShoppingGuide/InfantFruits/Gerber.jpeg"
+    },
+    {
+      "name": "Good & Gather Baby",
+      "logoUrl": "https://docs.wic.ca.gov/images/WicShoppingGuide/InfantFruits/GoodGatherBaby.png"
+    },
+    {
+      "name": "Happy Baby Organics",
+      "logoUrl": "https://docs.wic.ca.gov/images/WicShoppingGuide/InfantFruits/OrganicsHappyBaby.png"
+    },
+    {
+      "name": "Mom's Organic Choice",
+      "logoUrl": "https://docs.wic.ca.gov/images/WicShoppingGuide/InfantFruits/moms-organic-choice.png"
+    },
+    {
+      "name": "O Organics",
+      "logoUrl": "https://docs.wic.ca.gov/images/WicShoppingGuide/InfantFruits/OOrganics.png"
+    },
+    {
+      "name": "Once Upon a Farm",
+      "logoUrl": "https://docs.wic.ca.gov/images/WicShoppingGuide/InfantFruits/Once_Upon_a_Farm.png"
+    },
+    {
+      "name": "Parent's Choice",
+      "logoUrl": "https://docs.wic.ca.gov/images/WicShoppingGuide/InfantFruits/ParentsChoice.png"
+    },
+    {
+      "name": "Simple Truth Organic",
+      "logoUrl": "https://docs.wic.ca.gov/images/WicShoppingGuide/InfantFruits/simpletruthorganic.png"
+    },
+    {
+      "name": "Tippy Toes",
+      "logoUrl": "https://docs.wic.ca.gov/images/WicShoppingGuide/InfantFruits/Tippytoes.png"
+    },
+    {
+      "name": "Tippy Toes Organic",
+      "logoUrl": "https://docs.wic.ca.gov/images/WicShoppingGuide/InfantFruits/TippytoesOrganic.png"
+    },
+    {
+      "name": "Wild Harvest Organic",
+      "logoUrl": "https://docs.wic.ca.gov/images/WicShoppingGuide/InfantFruits/WildHarvestOrganic.png"
+    },
+    {
+      "name": "Yummy Organics",
+      "logoUrl": "https://docs.wic.ca.gov/images/WicShoppingGuide/InfantFruits/YummyOrganics.png"
+    }
+  ]
+}

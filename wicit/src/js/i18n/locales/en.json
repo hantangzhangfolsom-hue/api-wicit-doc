@@ -1,4 +1,13 @@
 {
+  "shoppingGuide.loading": "Loading milk shopping guide...",
+  "shoppingGuide.title": "Shopping Guide",
+  "shoppingGuide.canBuy": "Can Buy",
+  "shoppingGuide.conditionalPurchases": "Only If Included in Your WIC Food Balance",
+  "shoppingGuide.cannotBuy": "Cannot Buy",
+  "shoppingGuide.helpfulHints": "Helpful Hints",
+  "shoppingGuide.source": "View the official California WIC guide",
+  "shoppingGuide.updated": "Source last updated:",
+  "shoppingGuide.error": "Unable to load the milk guide. Please try again later.",
   "nav.map": "Who Accepts WIC?",
   "nav.qualify": "Do I Qualify?",
   "nav.about": "What Is WIC?",
