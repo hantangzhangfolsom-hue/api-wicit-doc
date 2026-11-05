@@ -1,0 +1,57 @@
+{
+  "slug": "milk",
+  "name": "Milk",
+  "sourceUrl": "https://myfamily.wic.ca.gov/WicShoppingGuide/Milk",
+  "sourceLastUpdated": "2026-05-29",
+  "canBuy": {
+    "description": "Any brand. Plain, fluid cow’s milk. One gallon containers. Pasteurized or ultra-pasteurized.",
+    "items": [
+      "1% Lowfat (light)",
+      "Nonfat (fat free, skim)"
+    ]
+  },
+  "conditionalPurchases": {
+    "condition": "The following are allowed only if included in your WIC Food Balance:",
+    "items": [
+      "Half gallon containers",
+      "Whole milk",
+      "2% Reduced fat milk",
+      "Lactose-free milk in half gallon, .75 gallon, or one gallon containers",
+      "Evaporated milk in 12 oz cans",
+      "Powdered dry milk in 9.6 oz, 9.625 oz, or 25.6 oz containers"
+    ]
+  },
+  "cannotBuy": [
+    "Any other type, flavor, or size of milk",
+    "Specialty milks, such as milk with added DHA, ultra heat treated (UHT) shelf-stable milk, A2 milk, ultra-filtered milk, or protein-fortified milk",
+    "Cultured milks, such as acidophilus milk, buttermilk, or kefir milk",
+    "Flavored milk, such as chocolate",
+    "Goat’s milk",
+    "Non-dairy substitutes",
+    "Pint size or glass bottles",
+    "Raw (unpasteurized) milk",
+    "Sweetened condensed or filled milk",
+    "Organic milk"
+  ],
+  "helpfulHints": {
+    "description": "Choose foods that work for your family! Talk to WIC staff if you want these options instead of fluid cow’s milk:",
+    "items": [
+      "Evaporated milk",
+      "Powdered dry milk",
+      "Lactose-free milk",
+      "Plant-based milk alternatives"
+    ],
+    "note": "To get the most milk, buy fluid cow’s milk."
+  },
+  "images": [
+    {
+      "url": "https://docs.wic.ca.gov/images/WicShoppingGuide/Milk/milk.png",
+      "alt": "Milk jug"
+    },
+    {
+      "url": "https://docs.wic.ca.gov/images/WicShoppingGuide/Milk/MilkOptions.png",
+      "alt": "Milk options"
+    }
+  ],
+  "brands": []
+}
